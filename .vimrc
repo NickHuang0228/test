@@ -63,3 +63,31 @@ nnoremap <silent> <F2> :NERDTree<CR>
 
 call vundle#end()            " required
 filetype plugin indent on    " required
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"這是為了測試""
